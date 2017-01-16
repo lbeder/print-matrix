@@ -1,5 +1,4 @@
 require 'tco'
-require 'rmagick'
 require 'pry'
 
 COLORS = {
